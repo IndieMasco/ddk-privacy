@@ -57,11 +57,17 @@ export default function App() {
         </section>
 
         <section className="section">
-          <h2 className="section-heading">5. Contact</h2>
+          <h2 className="section-heading">5. Contact & Community</h2>
           <div className="contact-box">
             <p>
-              If you have any questions, please contact the developer at:{" "}
-              <strong>[EMAIL]</strong>
+              If you have any questions, feedback, or need to report a bug,
+              please contact the developer via:{" "}
+            </p>
+            <p>
+              <strong>Email:</strong> digital.dice.kit@gmail.com
+            </p>
+            <p>
+              <strong>Discord:</strong> [Link]
             </p>
           </div>
         </section>
