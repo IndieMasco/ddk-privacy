@@ -67,7 +67,8 @@ export default function App() {
               <strong>Email:</strong> digital.dice.kit@gmail.com
             </p>
             <p>
-              <strong>Discord:</strong> [Link]
+              <strong>Discord:</strong>{" "}
+              <a href="https://discord.gg/Eu9SzzU94m">Privacy Policy</a>
             </p>
           </div>
         </section>
