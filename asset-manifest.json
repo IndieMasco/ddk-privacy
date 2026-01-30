@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/ddk-privacy/static/css/main.4ffb5965.css",
-    "main.js": "/ddk-privacy/static/js/main.3881532b.js",
+    "main.js": "/ddk-privacy/static/js/main.508175d3.js",
     "index.html": "/ddk-privacy/index.html",
     "main.4ffb5965.css.map": "/ddk-privacy/static/css/main.4ffb5965.css.map",
-    "main.3881532b.js.map": "/ddk-privacy/static/js/main.3881532b.js.map"
+    "main.508175d3.js.map": "/ddk-privacy/static/js/main.508175d3.js.map"
   },
   "entrypoints": [
     "static/css/main.4ffb5965.css",
-    "static/js/main.3881532b.js"
+    "static/js/main.508175d3.js"
   ]
 }
