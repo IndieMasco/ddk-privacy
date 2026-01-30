@@ -68,7 +68,7 @@ export default function App() {
             </p>
             <p>
               <strong>Discord:</strong>{" "}
-              <a href="https://discord.gg/Eu9SzzU94m">Privacy Policy</a>
+              <a href="https://discord.gg/Eu9SzzU94m">WaffleStone Studios</a>
             </p>
           </div>
         </section>
