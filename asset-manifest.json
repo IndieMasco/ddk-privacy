@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ddk-privacy/static/css/main.4ffb5965.css",
+    "main.js": "/ddk-privacy/static/js/main.3881532b.js",
+    "index.html": "/ddk-privacy/index.html",
+    "main.4ffb5965.css.map": "/ddk-privacy/static/css/main.4ffb5965.css.map",
+    "main.3881532b.js.map": "/ddk-privacy/static/js/main.3881532b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ffb5965.css",
+    "static/js/main.3881532b.js"
+  ]
+}
